@@ -18,7 +18,7 @@ Through the system, user can easily get their pet health care. They can get advi
 •	Pet owner view own pet information
 
 ##	Technology:
-•	Presentation Layer: HTML5, CSS3, Bootstrap 4, JavaScript, JQuery.
-•	Application Layer: PHP, Laravel 5.4
-•	Data Layer: MySQL.
-•	Tools: Sublime Text 3, Xampp.
+#	Presentation Layer: HTML5, CSS3, Bootstrap 4, JavaScript, JQuery.
+#	Application Layer: PHP, Laravel 5.4
+#	Data Layer: MySQL.
+#	Tools: Sublime Text 3, Xampp.
