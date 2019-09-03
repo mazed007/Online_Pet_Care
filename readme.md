@@ -1,6 +1,7 @@
-##Online Pet Care
+## Online Pet Care
 
-##Detail: This project is a web based caring system for an existing pet.
+## Detail:
+This project is a web based caring system for an existing pet.
 
 Through the system, user can easily get their pet health care. They can get advice from the doctor for their pet. As a result, they will not go to the trouble of hospital, they will get the benefit off the doctor through this system. As a result, many of them valuable time can be saved. They can easily take the doctor’s appointment through this system. The doctor can give proper advice to the patient about the illness of the disease.
 
